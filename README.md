@@ -19,8 +19,7 @@
 ### 📚 Third Semester  
 **234218 - Data Structures:**  
 - **AVL Tree + Pirate Mini-Game (Template-Based):** [DataStruct](https://github.com/assi11/Datastruct)  
-- **Union-Find with Tree Compression + Dynamic Hash + Pirate Mini-Game (Advanced):**  
-  - Implemented tree compression, union by size, and dynamic hashing techniques.  
+- **Union-Find with Tree Compression union by size + Dynamic Hash + Pirate Mini-Game (Advanced):**  
   - [DataStruct4](https://github.com/assi11/DataStruct4)
 
 ---
