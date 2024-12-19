@@ -22,6 +22,13 @@
 - **Union-Find with Tree Compression union by size + Dynamic Hash + Pirate Mini-Game (Advanced):**  
   - [DataStruct4](https://github.com/assi11/DataStruct4)
 
+
+### 📚 Third Semester  
+**234123 - Operating Systems**
+-Bash : [Operating Systems](https://github.com/assi11/SmashBash) 
+
+
+
 ---
 
 <h3 align="left">🛠️ Languages and Tools</h3>
