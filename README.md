@@ -23,7 +23,7 @@
   - [DataStruct4](https://github.com/assi11/DataStruct4)
 
 
-### 📚 Third Semester  
+### 📚 Fourth Semester  
 **234123 - Operating Systems**
 -Bash : [Operating Systems](https://github.com/assi11/SmashBash) 
 
